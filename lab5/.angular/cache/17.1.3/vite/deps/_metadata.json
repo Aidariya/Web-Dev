@@ -1,12 +1,20 @@
 {
+<<<<<<< HEAD
   "hash": "457a8497",
   "configHash": "0719d68a",
   "lockfileHash": "26a04676",
   "browserHash": "142fb99c",
+=======
+  "hash": "70ce816a",
+  "configHash": "bdff44ff",
+  "lockfileHash": "1946d732",
+  "browserHash": "a6843121",
+>>>>>>> master
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
+<<<<<<< HEAD
       "fileHash": "6541aa8a",
       "needsInterop": false
     },
@@ -14,39 +22,63 @@
       "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
       "file": "@angular_common_http.js",
       "fileHash": "281536e8",
+=======
+      "fileHash": "12748cd1",
+>>>>>>> master
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
+<<<<<<< HEAD
       "fileHash": "0989b04c",
+=======
+      "fileHash": "6703a1f2",
+>>>>>>> master
       "needsInterop": false
     },
     "@angular/forms": {
       "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
       "file": "@angular_forms.js",
+<<<<<<< HEAD
       "fileHash": "9995f031",
+=======
+      "fileHash": "d19005e2",
+>>>>>>> master
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
+<<<<<<< HEAD
       "fileHash": "8a860192",
+=======
+      "fileHash": "d8973bc1",
+>>>>>>> master
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
+<<<<<<< HEAD
       "fileHash": "9ec74275",
+=======
+      "fileHash": "1ad05105",
+>>>>>>> master
       "needsInterop": false
     }
   },
   "chunks": {
+<<<<<<< HEAD
     "chunk-UBD6MHFD": {
       "file": "chunk-UBD6MHFD.js"
     },
     "chunk-EAJE57VE": {
       "file": "chunk-EAJE57VE.js"
+=======
+    "chunk-T3JOYEAF": {
+      "file": "chunk-T3JOYEAF.js"
+>>>>>>> master
     },
     "chunk-NCRJLOF7": {
       "file": "chunk-NCRJLOF7.js"

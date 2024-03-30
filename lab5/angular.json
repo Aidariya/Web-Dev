@@ -99,6 +99,10 @@
     }
   },
   "cli": {
+<<<<<<< HEAD
     "analytics": "7fed16bd-0cda-464b-8dfa-998352ed0631"
+=======
+    "analytics": false
+>>>>>>> master
   }
 }

@@ -1,4 +1,5 @@
 img {
+<<<<<<< HEAD
   width: 200px;
 }
 .categories {
@@ -36,11 +37,55 @@ button {
   margin-left: 5px;
   font-size: 16px;
   color: grey;
+=======
+    width: 200px;
+}
+.categories {
+    margin-top: 15px;
+}
+.cat {
+    margin: 10px;
+}
+.remove {
+    margin-left: 10px;
+    background-color: red;
+}
+.buttons {
+    display: flex;
+}
+button {
+    border-radius: 5px;
+}
+.heart-btn {
+    margin-left: 600px;
+}
+.content {
+    border: 2px solid #eae2e1;
+    padding: 10px 16px;
+    border-radius: 5px;
+    display: flex;
+    cursor: pointer;
+}
+.heart-btn .content .fa-heart.liked {
+    color: red; 
+  }
+  
+.like {
+
+    margin-left: 5px;
+    font-size: 16px;
+    color: grey;
+>>>>>>> master
 }
 .number{
 margin-left: 5px;
 }
 hr {
+<<<<<<< HEAD
   border: 0.5px solid #eae2e1;
   margin: 20px;
+=======
+    border: 0.5px solid #eae2e1;
+    margin: 20px;
+>>>>>>> master
 }
