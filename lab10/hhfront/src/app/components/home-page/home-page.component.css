@@ -1,0 +1,6 @@
+.container{
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(183, 64, 64);
+    flex: 1 1 auto;
+}
